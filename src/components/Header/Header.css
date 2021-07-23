@@ -1,0 +1,8 @@
+header.HeaderContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f47b63;
+
+}
